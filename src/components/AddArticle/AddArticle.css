@@ -1,0 +1,32 @@
+.add-article {
+  width: 30rem;
+  height: 8rem;
+  margin: auto;
+  margin-top: 1rem;
+  padding: 1rem;
+  background: #f5f6f7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.3rem;
+}
+
+.add-article input {
+  display: block;
+  margin: auto;
+  margin-bottom: 0.5rem;
+  width: 20rem;
+  padding: 0.5rem;
+  border: 1px solid #333;
+  border-radius: 0.3rem;
+}
+
+.add-article button {
+  width: 21rem;
+  padding: 0.7rem;
+  border: 1px solid #333;
+  background: #333;
+  color: #eee;
+  border-radius: 0.3rem;
+}
